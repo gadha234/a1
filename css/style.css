@@ -91,6 +91,11 @@ button{
     background-color: #f1f1f1;
     color: #000;
 }
+
+header .toggle-nav button{
+    display: none;
+}
+
 .home {
     background-image: url(../images/bg.png);
     background-repeat: no-repeat;
@@ -446,7 +451,7 @@ footer br{
     display: none;
 }
 
-footer .fi hr{
+footer hr{
     padding-top: 30px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.4);
     position: relative;
