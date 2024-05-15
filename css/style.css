@@ -92,10 +92,6 @@ button{
     color: #000;
 }
 
-header .toggle-nav button{
-    display: none;
-}
-
 .home {
     background-image: url(../images/bg.png);
     background-repeat: no-repeat;
